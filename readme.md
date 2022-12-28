@@ -5,7 +5,7 @@ I incountered a problem by working with AWS that its not easy and also time cons
 as matter of fact even worse if u get a list of Ip addresses from example CISo or some other security governing body in your company, 
 and you need to compare it with a list that was given to you.
 
-It happend to me, I received a list of ip addresses which were detected by our security which needs to be added as ressources to our assets tool,
+It happend to me, I received a list of ip addresses which were detected by our security team which needed to be added as ressources to our assets tool,
 and not all ips are attached to ec2 instances and thats why they are not easy to finde out.
 
 This script will compare your liost of private ips and spit out a csv file with match or not match.
